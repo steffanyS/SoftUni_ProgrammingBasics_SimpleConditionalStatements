@@ -1,0 +1,9 @@
+E:\SoftUni\ProgrammingBasics\03. SimpleConditionalStatements\InClass\Number1_10\Number1_10\bin\Debug\Number1_10.exe.config
+E:\SoftUni\ProgrammingBasics\03. SimpleConditionalStatements\InClass\Number1_10\Number1_10\bin\Debug\Number1_10.exe
+E:\SoftUni\ProgrammingBasics\03. SimpleConditionalStatements\InClass\Number1_10\Number1_10\bin\Debug\Number1_10.pdb
+E:\SoftUni\ProgrammingBasics\03. SimpleConditionalStatements\InClass\Number1_10\Number1_10\obj\Debug\Number1_10.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\03. SimpleConditionalStatements\InClass\Number1_10\Number1_10\obj\Debug\Number1_10.exe
+E:\SoftUni\ProgrammingBasics\03. SimpleConditionalStatements\InClass\Number1_10\Number1_10\obj\Debug\Number1_10.pdb
+E:\SoftUni\ProgrammingBasics\03. SimpleConditionalStatements\InClass\Number110\Number1_10\bin\Debug\Number1_10.exe.config
+E:\SoftUni\ProgrammingBasics\03. SimpleConditionalStatements\InClass\Number110\Number1_10\obj\Debug\Number1_10.exe
+E:\SoftUni\ProgrammingBasics\03. SimpleConditionalStatements\InClass\Number110\Number1_10\obj\Debug\Number1_10.pdb
